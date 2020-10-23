@@ -1,0 +1,34 @@
+# 用户
+user:
+        daido1: "daido1"
+        daido2: "daido2"
+        daido3: "daido3"
+        admin: "admin"
+
+# 用户名对应的密码
+password:
+        daido1: "daido001"
+        daido2: "daido002"
+        daido3: "daido003"
+        admin: "admin123456"
+
+
+
+## 测试报告配置
+#report:
+#        file_name: 百度新闻自动化测试保存    # 测试报告文件名
+#        report_title: 百度新闻自动化测试保存 # 测试报告标题
+#        description: 百度新闻自动化测试保存 # 测试描述
+##测试数据配置
+#database:
+#        host: localhost
+#        port: 3306
+#        user: root
+#        password: 123456
+#        db: autotest
+#        charset: utf8
+##测试元素页面的配置
+#pageelymlfile: baidu
+#
+##测试要用的浏览器"chrome"或“firefox”
+#browser: chrome

@@ -1,0 +1,5 @@
+Mon, 25 May 2020 15:57:56 testLog.py[line:20] DEBUG debug message
+Mon, 25 May 2020 15:57:56 testLog.py[line:21] INFO info message
+Mon, 25 May 2020 15:57:56 testLog.py[line:22] WARNING warn message
+Mon, 25 May 2020 15:57:56 testLog.py[line:23] ERROR error message
+Mon, 25 May 2020 15:57:56 testLog.py[line:24] CRITICAL critical message

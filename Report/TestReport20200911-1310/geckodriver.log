@@ -1,0 +1,36 @@
+1599801058101	geckodriver	INFO	Listening on 127.0.0.1:27294
+1599801061193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chaixin\\AppData\\Local\\Temp\\rust_mozprofilewqyqoP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599801064878	Marionette	INFO	Listening on port 27306
+1599801064923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+JavaScript error: http://daido.sitetest1.com/assets/js/footer.js, line 1259: ReferenceError: io is not defined
+1599801286398	Marionette	INFO	Stopped listening on port 27306
+[Parent 1212, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

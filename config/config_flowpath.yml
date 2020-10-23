@@ -1,0 +1,160 @@
+火災:
+        点検1回目:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        点検2回目:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+        返金解約点検:      "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[3]/div/div"
+        不備案件:    "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[4]/div/div"
+
+        オンライン計上:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        web计上:        "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        リビングアシスト計上:    "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+        バッチ計上準備:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[4]/div/div"
+
+        バッチエラー待:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        付箋不備:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+
+        エラー待:        "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+        エラー修正:       "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[2]/div/div"
+        計上確認:    "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[3]/div/div"
+
+        問合せ:              "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:        "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:       "/html/body/section/main/section/main/div[7]/div/div[2]/div/div[1]/div/div"
+
+障害新種:
+        点検1回目:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        点検2回目:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+        不備案件:    "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[3]/div/div"
+
+        オンライン計上:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        バッチ計上準備:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+
+        住所作成・補記:       "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        承認書確認:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+        バッチエラー待:       "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[3]/div/div"
+        付箋不備:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[4]/div/div"
+
+        エラー待:        "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+        エラー修正:       "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[2]/div/div"
+        計上確認:    "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[3]/div/div"
+
+        問合せ:              "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:        "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:       "/html/body/section/main/section/main/div[7]/div/div[2]/div/div[1]/div/div"
+
+代勘:
+        精算書作成:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        精算点検:   "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+        リーダー精算点検:      "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[3]/div/div"
+        経理点検:    "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[4]/div/div"
+
+        振込登録:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        振込登録確認1回目:        "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        振込登録確認2回目:    "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+        支払待ち:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[4]/div/div"
+
+        問合せ:              "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:        "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:       "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+
+満返:
+        満返点検:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        精算書チェック:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+        承認請求書チェック:      "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[3]/div/div"
+        他チームと連携準備:    "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[4]/div/div"
+
+        送り状入力:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        送り状入力チェック:        "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        支払登録:    "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+        支払登録チェック:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[4]/div/div"
+        不備案件:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[5]/div/div"
+
+        追徴消込:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        支払反映消込:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+        FB外支払登録チェック:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[３]/div/div"
+        支払待:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[4]/div/div"
+
+        問合せ:              "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:        "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:       "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[1]/div/div"
+
+口振振替:
+        受付点検（口座振替）:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        代理店登録 確認（口座振替）:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+
+        オンライン計上（口座振替）:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        計上確認（口座振替）:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        口座振替不備:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+
+        コーディング（口座振替）:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+
+        エラー処理（口座振替）:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+
+        問合せ:  "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:  "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:  "/html/body/section/main/section/main/div[7]/div/div[2]/div/div[1]/div/div"
+
+満返年金:
+        点検:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        点検チェック:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+
+        支払登録:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        支払登録チェック:        "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        支払反映消込:    "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+        FB外支払登録チェック:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[4]/div/div"
+
+        支払待:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        不備案件:   "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:       "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+
+事務統括:
+        受付点検:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        点検2回目:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+        質権設定完了:       "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[3]/div/div"
+        事務統括業務一覧:    "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[4]/div/div"
+
+        不備案件:     "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+
+        問合せ:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+
+営業点検:
+        営業点検:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+
+        問合せ:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        問合せ回答:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+
+        不明書類:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div"
+
+日本代行:
+        前処理1:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[1]/div/div"
+        前処理2:  "/html/body/section/main/section/main/div[2]/div/div[2]/div/div[2]/div/div"
+
+        内容点検:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[1]/div/div"
+        コーディング1回目（日本代行）:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[2]/div/div"
+        コーディング2回目（日本代行）:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[3]/div/div"
+        パンチ発注（日本代行）:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[4]/div/div"
+        エラー待:  "/html/body/section/main/section/main/div[3]/div/div[2]/div/div[5]/div/div"
+
+        エラー修正:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[1]/div/div"
+        承認書作成1回目（日本代行）:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[2]/div/div"
+        承認書作成2回目（日本代行）:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[3]/div/div"
+        承認書発送（日本代行）:  "/html/body/section/main/section/main/div[4]/div/div[2]/div/div[4]/div/div"
+
+        口振コーディング1（日本代行）回目:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[1]/div/div"
+        口振コーディング2（日本代行）回目:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[2]/div/div"
+        口振パンチ発注(日本代行):  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[3]/div/div"
+        口振付箋不備:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[4]/div/div"
+        口振エラー処理:  "/html/body/section/main/section/main/div[5]/div/div[2]/div/div[5]/div/div"
+
+        問合せ:  "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[4]/div/div"
+        問合せ回答:  "/html/body/section/main/section/main/div[6]/div/div[2]/div/div[1]/div/div"
+
+
